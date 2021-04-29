@@ -1,0 +1,173 @@
+.texto-curriculum{
+    background-color:rgb(241, 240, 248);
+    height:150px;
+    width:555px;
+    font-size: medium ;
+    text-align: left;
+    padding: 15px;
+    margin-top: 11px;
+    border-left: 2px solid orange;
+    font-style: oblique;
+    padding-top: 30px;
+
+}
+
+
+.foto-texto{
+    display: flex;
+    justify-content: center;
+}
+.rosario{
+    grid-template-columns: 33% 33% 33%;
+    /* grid-template-rows: 300px 300px 300px; */
+ 
+    display: grid;
+    /* padding: px;
+    grid-gap: 5%; */
+   
+
+  
+}.ordenador{
+   display: flex;
+   flex-direction:column;
+   text-align: center;
+   align-items: center;
+
+
+}
+.laB{
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    align-items: center;
+ 
+}
+.lac{
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    align-items: center;
+ 
+}
+.laA{
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    align-items: center;
+ 
+}
+.lad{
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    align-items: center;
+ 
+}
+.lae{
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    align-items: center;
+}
+h2{
+    /* text-align: center;
+    font-size: 38px;
+    font-style: normal;
+    font-family: Quicksand; */
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0.015em;
+text-align: center;
+
+}
+
+.texto-verde{
+    
+    text-align: center;
+    padding-left: 20px;
+    line-height: 34px;
+    font-size: 11px;
+    
+    
+}
+.cajita3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.naranja{
+    width: 166px;
+    font-size: 12px;
+    height: 48px;
+    padding: 16px;
+}
+
+
+.papa-contenedor{
+    background-color:rgb(229, 230, 235);
+    text-align: center;
+    width: 550px;
+    height: 220px;
+    padding-top: 30px;
+    margin-left: 30px;
+    
+}
+.uno{
+    display: flex;
+    justify-content:center;
+}
+.papa-contenedor #correo{
+    text-align: center;
+    border-radius: 6px;
+    width: 320px;
+    height: 40px;
+    border: none;
+
+
+}
+.papa-contenedor #button-naranjita{
+    background:#FF7533;
+    border-radius:6px;
+    height: 39px;
+    width: 50px;
+    border:none;
+}
+.mama-contenedor{
+        padding:30px;
+       width: 1211px;
+   
+}
+
+.tomate legend, .sombrero legend, .gafas legend, .joven legend, .barbita legend{  
+display: flex;
+justify-content: center;
+height: 1px;
+}
+
+.tomate1, .sombrero2, .gafas3, .joven4, .barbita5{
+    background-color: rgba(196, 196, 196, 0.38);
+    text-align: left;
+    font-style: italic;
+    padding: 20px;
+    height: 12.937em;
+    margin: 15px;
+    width: 20.312em;
+}
+
+.cuadrado3, .cuadrado2{
+    display: flex;
+    justify-content: center;
+}
+
+.foto5comentarios{
+    margin-top: 6px;
+    margin-right: 10px;
+}
+
+.comillas-naranjas{
+    position: relative;
+    bottom: 1.33em;
+}
